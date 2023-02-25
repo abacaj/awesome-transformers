@@ -6,7 +6,7 @@ A curated list of awesome transformer models.
 
 If you want to contribute to this list, send a pull request or reach out to me on twitter: [@abacaj](https://twitter.com/abacaj). Let's make this list useful.
 
-There are a number of models available that are not entirely open source (non-commercial, etc), this repository should serve to also make you aware of that. Tracking the original source/company of the model also helps.
+There are a number of models available that are not entirely open source (non-commercial, etc), this repository should serve to also make you aware of that. Tracking the original source/company of the model will help.
 
 I would also eventually like to add model use cases. So it is easier for others to find the right one to fine-tune.
 
