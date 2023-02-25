@@ -120,13 +120,13 @@ _Format_:
   - [Paper](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf)
   - Facebook
   - [Requires approval, non-commercial](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
-- GPT: Bidirectional Encoder Representations from Transformers
+- GPT: Improving Language Understanding by Generative Pre-Training
   <a name="gpt"></a>
   - [Model](https://huggingface.co/openai-gpt)
   - [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
   - OpenAI
   - MIT
-- GPT-2: Distilled version of BERT smaller, faster, cheaper and lighter
+- GPT-2: Language Models are Unsupervised Multitask Learners
   <a name="gpt-2"></a>
   - [Model](https://huggingface.co/models?search=gpt-2)
   - [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
