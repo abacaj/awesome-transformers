@@ -47,6 +47,7 @@ _Format_:
   - [Bart](#bart)
   - [Pegasus](#pegasus)
   - [MT5](#mt5)
+  - [UL2](#ul2)
 - [Multimodal models](#multimodal)
   - [Donut](#donut)
 - [Vision models](#vision)
@@ -201,6 +202,11 @@ _Format_:
 - MT5: A Massively Multilingual Pre-trained Text-to-Text Transformer
   - [Model](https://huggingface.co/models?search=mt5)
   - [Paper](https://arxiv.org/pdf/2010.11934.pdf)
+  - Google
+  - Apache v2
+- UL2: Unifying Language Learning Paradigms
+  - [Model](https://huggingface.co/google/ul2)
+  - [Paper](https://arxiv.org/pdf/2205.05131v1.pdf)
   - Google
   - Apache v2
 
