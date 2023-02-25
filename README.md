@@ -29,6 +29,7 @@ _Format_:
 - [Decoder (autoregressive) models](#encoder)
   - [BioGPT](#bio-gpt)
   - [CodeGen](#codegen)
+  - [LLaMa](#llama)
   - [GPT](#gpt)
   - [GPT-2](#gpt-2)
   - [GPT-J](#gpt-j)
@@ -102,7 +103,13 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/2203.13474.pdf)
   - Salesforce
   - BSD 3-Clause
-    <a name="CodeGen"></a>
+    <a name="codgen"></a>
+- LLaMa: Open and Efficient Foundation Language Models
+  - [Model](https://github.com/facebookresearch/llama)
+  - [Paper](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf)
+  - Facebook
+  - [Requires approval, non-commercial](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
+    <a name="llama"></a>
 - GPT: Bidirectional Encoder Representations from Transformers
   - [Model](https://huggingface.co/openai-gpt)
   - [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
