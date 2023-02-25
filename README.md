@@ -28,24 +28,26 @@ _Format_:
   - [RoBERTa](#roberta)
 - [Decoder (autoregressive) models](#encoder)
   - [BioGPT](#bio-gpt)
-  - [CodeGen](#gpt)
+  - [CodeGen](#codegen)
   - [GPT](#gpt)
-  - [GPT-2](#gpt)
-  - [GPT-J](#gpt)
-  - [GPT-NEO](#gpt)
-  - [GPT-NEOX](#gpt)
-  - [NeMo Megatron-GPT](#gpt)
-  - [OPT](#gpt)
-  - [BLOOM](#gpt)
-  - [GLM](#gpt)
-  - [YaLM](#gpt)
+  - [GPT-2](#gpt-2)
+  - [GPT-J](#gpt-j)
+  - [GPT-NEO](#gpt-neo)
+  - [GPT-NEOX](#gpt-neox)
+  - [NeMo Megatron-GPT](#nemo)
+  - [OPT](#opt)
+  - [BLOOM](#bloom)
+  - [GLM](#glm)
+  - [YaLM](#yalm)
 - [Encoder+decoder (seq2seq) models](#encoder-decoder)
   - [T5](#t5)
-  - [FLAN-T5](#t5)
-  - [Bart](#t5)
-  - [Pegasus](#t5)
-  - [MT5](#t5)
+  - [FLAN-T5](#flan-t5)
+  - [Code-T5](#code-t5)
+  - [Bart](#bart)
+  - [Pegasus](#pegasus)
+  - [MT5](#mt5)
 - [Multimodal models](#multimodal)
+  - [Donut](#donut)
 - [Vision models](#vision)
 
 <a name="encoder"></a>
@@ -84,6 +86,8 @@ _Format_:
   - Facebook
   - MIT
 
+<a name="decoder"></a>
+
 ## Decoder models
 
 <a name="bio-gpt"></a>
@@ -93,3 +97,94 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/2210.10341.pdf)
   - Microsoft
   - MIT
+- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
+  - [Model](https://huggingface.co/models?sort=downloads&search=salesforce%2Fcodegen)
+  - [Paper](https://arxiv.org/pdf/2203.13474.pdf)
+  - Salesforce
+  - BSD 3-Clause
+    <a name="CodeGen"></a>
+- GPT: Bidirectional Encoder Representations from Transformers
+  - [Model](https://huggingface.co/openai-gpt)
+  - [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+  - OpenAI
+  - MIT
+    <a name="gpt"></a>
+- GPT-2: Distilled version of BERT smaller, faster, cheaper and lighter
+  - [Model](https://huggingface.co/models?search=gpt-2)
+  - [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+  - OpenAI
+  - MIT
+    <a name="gpt-2"></a>
+- GPT-J: GPT-J-6B: A 6 Billion Parameter Autoregressive Language Model
+  - [Model](https://huggingface.co/EleutherAI/gpt-j-6B)
+  - [Paper]()
+  - EleutherAI
+  - Apache v2
+    <a name="gpt-j"></a>
+- GPT-NEO:
+  - [Model]()
+  - [Paper]()
+  - .
+  - .
+    <a name="gpt-neo"></a>
+- NeMo Megatron-GPT:
+  - [Model]()
+  - [Paper]()
+  - .
+  - .
+    <a name="nemo"></a>
+- OPT:
+  - [Model]()
+  - [Paper]()
+  - .
+  - .
+    <a name="opt"></a>
+- BLOOM:
+  - [Model]()
+  - [Paper]()
+  - .
+  - .
+    <a name="bloom"></a>
+  - [Model]()
+  - [Paper]()
+  - .
+  - .
+    <a name="glm"></a>
+- YaLM:
+  - [Model]()
+  - [Paper]()
+  - .
+  - .
+    <a name="yalm"></a>
+
+<a name="encoder-decoder"></a>
+
+## Encoder+decoder (seq2seq) models
+
+<a name="bio-gpt"></a>
+
+- T5:
+  - [Model]()
+  - [Paper]()
+  -
+  -
+- FLAN-T5:
+  - [Model]()
+  - [Paper]()
+  -
+  -
+- Code-T5:
+  - [Model]()
+  - [Paper]()
+  -
+  -
+- Pegasus:
+  - [Model]()
+  - [Paper]()
+  -
+  -
+- MT5:
+  - [Model]()
+  - [Paper]()
+  -
+  -
