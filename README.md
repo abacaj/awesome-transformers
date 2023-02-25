@@ -53,7 +53,10 @@ _Format_:
 - [Multimodal models](#multimodal)
   - [Donut](#donut)
   - [LayoutLMv3](#layoutlmv3)
+  - [TrOCR](#trocr)
+  - [CLIP](#clip)
 - [Vision models](#vision)
+- [Audio models](#audio)
 
 <a name="encoder"></a>
 
@@ -254,3 +257,19 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/2204.08387.pdf)
   - Microsoft
   - CC BY-NC-SA 4.0 (non-commercial)
+- TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models
+  <a name="trocr"></a>
+  - [Model](https://huggingface.co/models?search=trocr)
+  - [Paper](https://arxiv.org/abs/2109.10282)
+  - Microsoft
+  - [Inherits MIT license](https://github.com/microsoft/unilm/tree/master/trocr#license)
+- CLIP: Learning Transferable Visual Models From Natural Language Supervision
+  <a name="clip"></a>
+  - [Model](https://huggingface.co/models?sort=downloads&search=openai%2Fclip)
+  - [Paper](https://arxiv.org/pdf/2103.00020.pdf)
+  - OpenAI
+  - MIT
+
+<a name="vision"></a>
+
+## Vision models
