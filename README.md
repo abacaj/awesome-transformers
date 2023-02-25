@@ -229,7 +229,7 @@ _Format_:
 <a name="donut"></a>
 
 - Donut: OCR-free Document Understanding Transformer
-  - [Model](https://huggingface.co/models?sort=downloads&search=t5)
+  - [Model](https://huggingface.co/models?search=donut)
   - [Paper](https://arxiv.org/pdf/2111.15664.pdf)
   - ClovaAI
   - MIT
