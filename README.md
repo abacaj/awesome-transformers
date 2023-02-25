@@ -24,6 +24,7 @@ _Format_:
   - [ALBERT](#albert)
   - [BERT](#bert)
   - [DistilBERT](#distilbert)
+  - [DeBERTaV3](#debertav3)
   - [Electra](#electra)
   - [RoBERTa](#roberta)
 - [Decoder (autoregressive) models](#decoder)
@@ -48,7 +49,9 @@ _Format_:
   - [Pegasus](#pegasus)
   - [MT5](#mt5)
   - [UL2](#ul2)
+  - [EdgeFormer](#edgeformer)
 - [Multimodal models](#multimodal)
+  - [LayoutLMv3](#layoutlmv3)
   - [Donut](#donut)
 - [Vision models](#vision)
 
@@ -75,6 +78,12 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/1910.01108.pdf)
   - HuggingFace
   - Apache v2
+- DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing
+  <a name="debertav3"></a>
+  - [Model](https://huggingface.co/models?sort=downloads&search=microsoft%2Fdeberta-v3)
+  - [Paper](https://arxiv.org/pdf/2111.09543.pdf)
+  - Microsoft
+  - MIT
 - Electra: Pre-training Text Encoders as Discriminators Rather Than Generators
   <a name="electra"></a>
   - [Model](https://huggingface.co/models?other=electra)
@@ -221,6 +230,12 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/2205.05131v1.pdf)
   - Google
   - Apache v2
+- EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation
+  <a name="edgeformer"></a>
+  - [Model](https://github.com/microsoft/unilm/tree/master/edgelm)
+  - [Paper](https://arxiv.org/pdf/2202.07959.pdf)
+  - Microsoft
+  - MIT
 
 <a name="multimodal"></a>
 
@@ -229,7 +244,13 @@ _Format_:
 <a name="donut"></a>
 
 - Donut: OCR-free Document Understanding Transformer
-  - [Model](https://huggingface.co/models?search=donut)
+  - [Model](https://huggingface.co/models?sort=downloads&search=clova%2Fdonut)
   - [Paper](https://arxiv.org/pdf/2111.15664.pdf)
   - ClovaAI
   - MIT
+- LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking
+  <a name="layoutlmv3"></a>
+  - [Model](https://huggingface.co/models?sort=downloads&search=microsoft%2Flayoutlmv3)
+  - [Paper](https://arxiv.org/pdf/2204.08387.pdf)
+  - Microsoft
+  - CC BY-NC-SA 4.0 (non-commercial)
