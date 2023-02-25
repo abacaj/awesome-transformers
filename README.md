@@ -99,7 +99,7 @@ _Format_:
   - Microsoft
   - MIT
 - CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
-  <a name="codgen"></a>
+  <a name="codegen"></a>
   - [Model](https://huggingface.co/models?sort=downloads&search=salesforce%2Fcodegen)
   - [Paper](https://arxiv.org/pdf/2203.13474.pdf)
   - Salesforce
@@ -146,9 +146,9 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/1909.08053.pdf)
   - NVidia
   - CC BY 4.0
-- OPT:
+- OPT: Open Pre-trained Transformer Language Models
   <a name="opt"></a>
-  - [Model]()
+  - [Model](https://huggingface.co/models?search=facebook%2Fopt)
   - [Paper](https://arxiv.org/pdf/2205.01068.pdf?fbclid=IwAR1Fhxr_i3UK3ttigVDGBwbtO-3zLzjTwnyn0dkYt8rf6hxUAUS7Sk7VrYk)
   - Facebook
   - [Requires approval, non-commercial](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md?fbclid=IwAR2jiCf2R9fTouGGF7v8Tt7Yq8sSVOMot0YIE8ibaP9b2avxw2bEbEaTJZY)
