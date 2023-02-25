@@ -286,9 +286,9 @@ _Format_:
   - [Inherits MIT license](https://github.com/microsoft/unilm/tree/master/dit#license)
 - DETR: End-to-End Object Detection with Transformers
   <a name="detr"></a>
-  - [Model](https://huggingface.co/microsoft/conditional-detr-resnet-50)
+  - [Model](https://huggingface.co/models?search=facebook/detr)
   - [Paper](https://arxiv.org/pdf/2005.12872.pdf)
-  - Microsoft
+  - Facebook
   - Apache v2
 
 <a name="audio"></a>
