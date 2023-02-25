@@ -122,48 +122,54 @@ _Format_:
   - [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
   - OpenAI
   - MIT
-- GPT-J: GPT-J-6B: A 6 Billion Parameter Autoregressive Language Model
+- GPT-J: A 6 Billion Parameter Autoregressive Language Model
   <a name="gpt-j"></a>
   - [Model](https://huggingface.co/EleutherAI/gpt-j-6B)
-  - [Paper]()
+  - [Paper](https://github.com/kingoflolz/mesh-transformer-jax)
   - EleutherAI
   - Apache v2
-- GPT-NEO:
+- GPT-NEO: Large Scale Autoregressive Language Modeling with Mesh-Tensorflow
   <a name="gpt-neo"></a>
-  - [Model]()
-  - [Paper]()
-  - .
-  - .
-- NeMo Megatron-GPT:
+  - [Model](https://huggingface.co/models?search=gpt-neo)
+  - [Paper](https://doi.org/10.5281/zenodo.5297715)
+  - EleutherAI
+  - MIT
+- GPT-NEOX-20B: An Open-Source Autoregressive Language Model
+  <a name="gpt-neox"></a>
+  - [Model](https://huggingface.co/EleutherAI/gpt-neox-20b)
+  - [Paper](https://arxiv.org/pdf/2204.06745.pdf)
+  - EleutherAI
+  - Apache v2
+- NeMo Megatron-GPT: Megatron-GPT 20B is a transformer-based language model.
   <a name="nemo"></a>
-  - [Model]()
-  - [Paper]()
-  - .
-  - .
+  - [Model](https://huggingface.co/nvidia/nemo-megatron-gpt-20B)
+  - [Paper](https://arxiv.org/pdf/1909.08053.pdf)
+  - NVidia
+  - CC BY 4.0
 - OPT:
   <a name="opt"></a>
   - [Model]()
-  - [Paper]()
-  - .
-  - .
-- BLOOM:
+  - [Paper](https://arxiv.org/pdf/2205.01068.pdf?fbclid=IwAR1Fhxr_i3UK3ttigVDGBwbtO-3zLzjTwnyn0dkYt8rf6hxUAUS7Sk7VrYk)
+  - Facebook
+  - [Requires approval, non-commercial](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md?fbclid=IwAR2jiCf2R9fTouGGF7v8Tt7Yq8sSVOMot0YIE8ibaP9b2avxw2bEbEaTJZY)
+- BLOOM: A 176B-Parameter Open-Access Multilingual Language Model
   <a name="bloom"></a>
-  - [Model]()
-  - [Paper]()
-  - .
-  - .
-- GLM:
+  - [Model](https://huggingface.co/bigscience/bloom)
+  - [Paper](https://arxiv.org/pdf/2211.05100.pdf)
+  - BigScience
+  - [OpenRAIL, use-based restrictions](https://huggingface.co/spaces/bigscience/license)
+- GLM: An Open Bilingual Pre-Trained Model
   <a name="glm"></a>
-  - [Model]()
-  - [Paper]()
-  - .
-  - .
-- YaLM:
+  - [Model](https://github.com/THUDM/GLM-130B)
+  - [Paper](https://arxiv.org/pdf/2210.02414.pdf)
+  - Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University
+  - [Custom license, see restrictions](https://github.com/THUDM/GLM-130B/blob/main/MODEL_LICENSE)
+- YaLM: Pretrained language model with 100B parameters
   <a name="yalm"></a>
-  - [Model]()
-  - [Paper]()
-  - .
-  - .
+  - [Model](https://github.com/yandex/YaLM-100B)
+  - [Paper](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6)
+  - Yandex
+  - Apache v2
 
 <a name="encoder-decoder"></a>
 
