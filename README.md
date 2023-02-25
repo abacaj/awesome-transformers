@@ -26,7 +26,7 @@ _Format_:
   - [DistilBERT](#distilbert)
   - [Electra](#electra)
   - [RoBERTa](#roberta)
-- [Decoder (autoregressive) models](#encoder)
+- [Decoder (autoregressive) models](#decoder)
   - [BioGPT](#bio-gpt)
   - [CodeGen](#codegen)
   - [LLaMa](#llama)
