@@ -62,26 +62,26 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/1909.11942.pdf)
   - Google
   - Apache v2
-    <a name="bert"></a>
 - BERT: Bidirectional Encoder Representations from Transformers
+  <a name="bert"></a>
   - [Model](https://huggingface.co/models?other=bert)
   - [Paper](https://arxiv.org/pdf/1810.04805.pdf)
   - Google
   - Apache v2
-    <a name="distilbert"></a>
 - DistilBERT: Distilled version of BERT smaller, faster, cheaper and lighter
+  <a name="distilbert"></a>
   - [Model](https://huggingface.co/models?other=distilbert)
   - [Paper](https://arxiv.org/pdf/1910.01108.pdf)
   - HuggingFace
   - Apache v2
-    <a name="electra"></a>
 - Electra: Pre-training Text Encoders as Discriminators Rather Than Generators
+  <a name="electra"></a>
   - [Model](https://huggingface.co/models?other=electra)
   - [Paper](https://arxiv.org/pdf/2003.10555.pdf)
   - Google
   - Apache v2
-    <a name="roberta"></a>
 - RoBERTa: Robustly Optimized BERT Pretraining Approach
+  <a name="roberta"></a>
   - [Model](https://huggingface.co/models?other=roberta)
   - [Paper](https://arxiv.org/pdf/1907.11692.pdf)
   - Facebook
@@ -177,28 +177,41 @@ _Format_:
 
 <a name="bio-gpt"></a>
 
-- T5:
-  - [Model]()
-  - [Paper]()
-  -
-  -
-- FLAN-T5:
-  - [Model]()
-  - [Paper]()
-  -
-  -
-- Code-T5:
-  - [Model]()
-  - [Paper]()
-  -
-  -
-- Pegasus:
-  - [Model]()
-  - [Paper]()
-  -
-  -
-- MT5:
-  - [Model]()
-  - [Paper]()
-  -
-  -
+- T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+  - [Model](https://huggingface.co/models?sort=downloads&search=t5)
+  - [Paper](https://arxiv.org/pdf/1910.10683.pdf)
+  - Google
+  - Apache v2
+- FLAN-T5: Scaling Instruction-Finetuned Language Models
+  - [Model](https://huggingface.co/models?sort=downloads&search=flan-t5)
+  - [Paper](https://arxiv.org/pdf/2210.11416.pdf)
+  - Google
+  - Apache v2
+- Code-T5: Identifier-aware Unified Pre-trained Encoder-Decoder Models
+  for Code Understanding and Generation
+  - [Model](https://huggingface.co/models?search=code-t5)
+  - [Paper](https://arxiv.org/pdf/2109.00859.pdf)
+  - Salesforce
+  - BSD 3-Clause
+- Pegasus: Pre-training with Extracted Gap-sentences for Abstractive Summarization
+  - [Model](https://huggingface.co/models?sort=downloads&search=pegasus)
+  - [Paper](https://arxiv.org/pdf/1912.08777.pdf)
+  - Google
+  - Apache v2
+- MT5: A Massively Multilingual Pre-trained Text-to-Text Transformer
+  - [Model](https://huggingface.co/models?search=mt5)
+  - [Paper](https://arxiv.org/pdf/2010.11934.pdf)
+  - Google
+  - Apache v2
+
+<a name="multimodal"></a>
+
+## Multimodal models
+
+<a name="donut"></a>
+
+- Donut: OCR-free Document Understanding Transformer
+  - [Model](https://huggingface.co/models?sort=downloads&search=t5)
+  - [Paper](https://arxiv.org/pdf/2111.15664.pdf)
+  - ClovaAI
+  - MIT
