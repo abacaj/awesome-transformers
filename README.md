@@ -58,6 +58,7 @@ _Format_:
 - [Vision models](#vision)
   - [DiT](#dit)
   - [DETR](#detr)
+  - [EfficientFormer](#efficientformer)
 - [Audio models](#audio)
   - [Whisper](#whisper)
 
@@ -289,6 +290,12 @@ _Format_:
   - [Model](https://huggingface.co/models?search=facebook/detr)
   - [Paper](https://arxiv.org/pdf/2005.12872.pdf)
   - Facebook
+  - Apache v2
+- EfficientFormer: Vision Transformers at MobileNet Speed
+  <a name="efficientformer"></a>
+  - [Model](https://huggingface.co/models?sort=downloads&search=snap-research%2Fefficientformer)
+  - [Paper](https://arxiv.org/pdf/2206.01191.pdf)
+  - Snap
   - Apache v2
 
 <a name="audio"></a>
