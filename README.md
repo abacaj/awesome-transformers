@@ -51,8 +51,8 @@ _Format_:
   - [UL2](#ul2)
   - [EdgeFormer](#edgeformer)
 - [Multimodal models](#multimodal)
-  - [LayoutLMv3](#layoutlmv3)
   - [Donut](#donut)
+  - [LayoutLMv3](#layoutlmv3)
 - [Vision models](#vision)
 
 <a name="encoder"></a>
