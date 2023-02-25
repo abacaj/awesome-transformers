@@ -56,6 +56,8 @@ _Format_:
   - [TrOCR](#trocr)
   - [CLIP](#clip)
 - [Vision models](#vision)
+  - [DiT](#dit)
+  - [DETR](#detr)
 - [Audio models](#audio)
   - [Whisper](#whisper)
 
@@ -274,6 +276,20 @@ _Format_:
 <a name="vision"></a>
 
 ## Vision models
+
+<a name="dit"></a>
+
+- DiT: Self-supervised Pre-training for Document Image Transformer
+  - [Model](https://huggingface.co/models?search=microsoft/dit)
+  - [Paper](https://arxiv.org/pdf/2203.02378.pdf)
+  - Microsoft
+  - [Inherits MIT license](https://github.com/microsoft/unilm/tree/master/dit#license)
+- DETR: End-to-End Object Detection with Transformers
+  <a name="detr"></a>
+  - [Model](https://huggingface.co/microsoft/conditional-detr-resnet-50)
+  - [Paper](https://arxiv.org/pdf/2005.12872.pdf)
+  - Microsoft
+  - Apache v2
 
 <a name="audio"></a>
 
