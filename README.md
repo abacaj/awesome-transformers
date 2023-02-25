@@ -99,70 +99,71 @@ _Format_:
   - Microsoft
   - MIT
 - CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
+  <a name="codgen"></a>
   - [Model](https://huggingface.co/models?sort=downloads&search=salesforce%2Fcodegen)
   - [Paper](https://arxiv.org/pdf/2203.13474.pdf)
   - Salesforce
   - BSD 3-Clause
-    <a name="codgen"></a>
 - LLaMa: Open and Efficient Foundation Language Models
+  <a name="llama"></a>
   - [Model](https://github.com/facebookresearch/llama)
   - [Paper](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf)
   - Facebook
   - [Requires approval, non-commercial](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
-    <a name="llama"></a>
 - GPT: Bidirectional Encoder Representations from Transformers
+  <a name="gpt"></a>
   - [Model](https://huggingface.co/openai-gpt)
   - [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
   - OpenAI
   - MIT
-    <a name="gpt"></a>
 - GPT-2: Distilled version of BERT smaller, faster, cheaper and lighter
+  <a name="gpt-2"></a>
   - [Model](https://huggingface.co/models?search=gpt-2)
   - [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
   - OpenAI
   - MIT
-    <a name="gpt-2"></a>
 - GPT-J: GPT-J-6B: A 6 Billion Parameter Autoregressive Language Model
+  <a name="gpt-j"></a>
   - [Model](https://huggingface.co/EleutherAI/gpt-j-6B)
   - [Paper]()
   - EleutherAI
   - Apache v2
-    <a name="gpt-j"></a>
 - GPT-NEO:
+  <a name="gpt-neo"></a>
   - [Model]()
   - [Paper]()
   - .
   - .
-    <a name="gpt-neo"></a>
 - NeMo Megatron-GPT:
+  <a name="nemo"></a>
   - [Model]()
   - [Paper]()
   - .
   - .
-    <a name="nemo"></a>
 - OPT:
+  <a name="opt"></a>
   - [Model]()
   - [Paper]()
   - .
   - .
-    <a name="opt"></a>
 - BLOOM:
+  <a name="bloom"></a>
   - [Model]()
   - [Paper]()
   - .
   - .
-    <a name="bloom"></a>
+- GLM:
+  <a name="glm"></a>
   - [Model]()
   - [Paper]()
   - .
   - .
-    <a name="glm"></a>
 - YaLM:
+  <a name="yalm"></a>
   - [Model]()
   - [Paper]()
   - .
   - .
-    <a name="yalm"></a>
 
 <a name="encoder-decoder"></a>
 
