@@ -179,32 +179,44 @@ _Format_:
 <a name="bio-gpt"></a>
 
 - T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+  <a name="t5"></a>
   - [Model](https://huggingface.co/models?sort=downloads&search=t5)
   - [Paper](https://arxiv.org/pdf/1910.10683.pdf)
   - Google
   - Apache v2
 - FLAN-T5: Scaling Instruction-Finetuned Language Models
+  <a name="flan-t5"></a>
   - [Model](https://huggingface.co/models?sort=downloads&search=flan-t5)
   - [Paper](https://arxiv.org/pdf/2210.11416.pdf)
   - Google
   - Apache v2
 - Code-T5: Identifier-aware Unified Pre-trained Encoder-Decoder Models
   for Code Understanding and Generation
+  <a name="code-t5"></a>
   - [Model](https://huggingface.co/models?search=code-t5)
   - [Paper](https://arxiv.org/pdf/2109.00859.pdf)
   - Salesforce
   - BSD 3-Clause
+- Bart: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+  <a name="bart"></a>
+  - [Model](https://huggingface.co/facebook/bart-large)
+  - [Paper](https://arxiv.org/pdf/1910.13461.pdf)
+  - Facebook
+  - Apache v2
 - Pegasus: Pre-training with Extracted Gap-sentences for Abstractive Summarization
+  <a name="pegasus"></a>
   - [Model](https://huggingface.co/models?sort=downloads&search=pegasus)
   - [Paper](https://arxiv.org/pdf/1912.08777.pdf)
   - Google
   - Apache v2
 - MT5: A Massively Multilingual Pre-trained Text-to-Text Transformer
+  <a name="mt5"></a>
   - [Model](https://huggingface.co/models?search=mt5)
   - [Paper](https://arxiv.org/pdf/2010.11934.pdf)
   - Google
   - Apache v2
 - UL2: Unifying Language Learning Paradigms
+  <a name="ul2"></a>
   - [Model](https://huggingface.co/google/ul2)
   - [Paper](https://arxiv.org/pdf/2205.05131v1.pdf)
   - Google
