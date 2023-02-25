@@ -57,6 +57,7 @@ _Format_:
   - [CLIP](#clip)
 - [Vision models](#vision)
 - [Audio models](#audio)
+  - [Whisper](#whisper)
 
 <a name="encoder"></a>
 
@@ -273,3 +274,15 @@ _Format_:
 <a name="vision"></a>
 
 ## Vision models
+
+<a name="audio"></a>
+
+## Audio models
+
+<a name="whisper"></a>
+
+- Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+  - [Model](https://huggingface.co/models?sort=downloads&search=openai%2Fwhisper)
+  - [Paper](https://arxiv.org/pdf/2212.04356.pdf)
+  - OpenAI
+  - MIT
