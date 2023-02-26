@@ -61,6 +61,8 @@ _Format_:
   - [EfficientFormer](#efficientformer)
 - [Audio models](#audio)
   - [Whisper](#whisper)
+- [Recommendation models](#recommendation)
+  - [P5](#p5)
 
 <a name="encoder"></a>
 
@@ -309,3 +311,13 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/2212.04356.pdf)
   - OpenAI
   - MIT
+
+## Recommendation models
+
+<a name="p5"></a>
+
+- Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)
+  - [Model](https://github.com/jeykigung/P5)
+  - [Paper](https://arxiv.org/abs/2203.13366)
+  - Rutgers
+  - Apache v2
