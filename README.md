@@ -312,6 +312,8 @@ _Format_:
   - OpenAI
   - MIT
 
+<a name="recommendation"></a>
+
 ## Recommendation models
 
 <a name="p5"></a>
