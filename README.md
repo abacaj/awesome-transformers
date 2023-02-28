@@ -55,6 +55,7 @@ _Format_:
   - [LayoutLMv3](#layoutlmv3)
   - [TrOCR](#trocr)
   - [CLIP](#clip)
+  - [Unified-IO](#unifiedio)
 - [Vision models](#vision)
   - [DiT](#dit)
   - [DETR](#detr)
@@ -275,6 +276,12 @@ _Format_:
   - [Paper](https://arxiv.org/pdf/2103.00020.pdf)
   - OpenAI
   - MIT
+- Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks
+  <a name="unifiedio"></a>
+  - [Model](https://github.com/allenai/unified-io-inference)
+  - [Paper](https://arxiv.org/pdf/2206.08916.pdf)
+  - allenai
+  - Apache v2
 
 <a name="vision"></a>
 
