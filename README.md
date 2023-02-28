@@ -322,9 +322,9 @@ _Format_:
 - VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
   <a name="valle"></a>
   - [Model (unofficial)](https://github.com/enhuiz/vall-e)
-  - MIT but has a dependency on a CC-BY-NC library
+    - MIT but has a dependency on a CC-BY-NC library
   - [Model (unofficial)](https://github.com/lifeiteng/vall-e)
-  - Apache v2
+    - Apache v2
   - [Paper](https://arxiv.org/pdf/2301.02111.pdf)
   - Microsoft
 
