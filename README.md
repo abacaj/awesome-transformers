@@ -62,6 +62,7 @@ _Format_:
   - [EfficientFormer](#efficientformer)
 - [Audio models](#audio)
   - [Whisper](#whisper)
+  - [VALL-E](#valle)
 - [Recommendation models](#recommendation)
   - [P5](#p5)
 
@@ -317,6 +318,12 @@ _Format_:
   - [Model](https://huggingface.co/models?sort=downloads&search=openai%2Fwhisper)
   - [Paper](https://arxiv.org/pdf/2212.04356.pdf)
   - OpenAI
+  - MIT
+- VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
+  <a name="valle"></a>
+  - [Model (unofficial)](https://github.com/enhuiz/vall-e)
+  - [Paper](https://arxiv.org/pdf/2301.02111.pdf)
+  - Microsoft
   - MIT
 
 <a name="recommendation"></a>
