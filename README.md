@@ -49,6 +49,7 @@ _Format_:
   - [Pegasus](#pegasus)
   - [MT5](#mt5)
   - [UL2](#ul2)
+  - [FLAN-UL2](#flanul2)
   - [EdgeFormer](#edgeformer)
 - [Multimodal models](#multimodal)
   - [Donut](#donut)
@@ -239,6 +240,12 @@ _Format_:
   <a name="ul2"></a>
   - [Model](https://huggingface.co/google/ul2)
   - [Paper](https://arxiv.org/pdf/2205.05131v1.pdf)
+  - Google
+  - Apache v2
+- FLAN-UL2: A New Open Source Flan 20B with UL2
+  <a name="flanul2"></a>
+  - [Model](https://github.com/google-research/google-research/tree/master/ul2)
+  - [Paper](https://arxiv.org/abs/2205.05131)
   - Google
   - Apache v2
 - EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation
