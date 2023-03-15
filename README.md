@@ -1,6 +1,6 @@
 # Awesome Transformers
 
-![Transformers](logo.png 'MarineGEO logo')
+![Transformers](logo.png)
 
 A curated list of awesome transformer models.
 
