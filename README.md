@@ -66,6 +66,10 @@ _Format_:
   - [VALL-E](#valle)
 - [Recommendation models](#recommendation)
   - [P5](#p5)
+- [Grounded Situation Recognition models](#gsr)
+  - [GSRTR](#gsrtr)
+  - [CoFormer](#coformer)
+  
 
 <a name="encoder"></a>
 
@@ -345,4 +349,22 @@ _Format_:
   - [Model](https://github.com/jeykigung/P5)
   - [Paper](https://arxiv.org/abs/2203.13366)
   - Rutgers
+  - Apache v2
+
+<a name="gsr"></a>
+
+## Grounded Situation Recognition models
+
+<a name="gsrtr"></a>
+
+- Grounded Situation Recognition with Transformers
+  - [Model](https://github.com/jhcho99/gsrtr)
+  - [Paper](https://arxiv.org/abs/2111.10135)
+  - POSTECH
+  - Apache v2
+- Collaborative Transformers for Grounded Situation Recognition
+  <a name="coformer"></a>
+  - [Model](https://github.com/jhcho99/CoFormer)
+  - [Paper](https://arxiv.org/abs/2203.16518)
+  - POSTECH
   - Apache v2
